@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "8.0.7-1.fc41"
     },
-    "CreationDate": "2025-04-02T21:19:12-07:00"
+    "CreationDate": "2025-04-02T21:27:20-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "EP-Booster-F_Cu.gbr",
+      "Path": "EP-Booster-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EP-Booster-B_Cu.gbr",
+      "Path": "EP-Booster-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EP-Booster-F_Paste.gbr",
+      "Path": "EP-Booster-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EP-Booster-B_Paste.gbr",
+      "Path": "EP-Booster-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EP-Booster-F_Silkscreen.gbr",
+      "Path": "EP-Booster-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EP-Booster-B_Silkscreen.gbr",
+      "Path": "EP-Booster-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "EP-Booster-F_Mask.gbr",
+      "Path": "EP-Booster-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "EP-Booster-B_Mask.gbr",
+      "Path": "EP-Booster-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "EP-Booster-Edge_Cuts.gbr",
+      "Path": "EP-Booster-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
